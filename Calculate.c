@@ -1,9 +1,9 @@
 #include <trsh.h>
 #include <string.h>
-#include<stdio.h>
-#define s
-/*This will calucalte 
- *
+#include <stdio.h>
+#define size 1000
+/* 
+ * This will calucalte 
  */
 int main(){
 	char op;
@@ -31,7 +31,7 @@ int main(){
 			break;
 
 		default:
-			printf("use your eye properly\n");
+			printf("i,m new programmer ,so make no change \n");
 	}
 
 
