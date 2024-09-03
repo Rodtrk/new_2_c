@@ -1,7 +1,7 @@
 # more about c programming 
 
 ---
-hello
-world 
+num1 : hello
+num2 : world 
 
 ---
